@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JzfsKRbK4mbKpd+O33BrZrgV5XQ3cdV0F6Kpb6kCRAGS4kpgtI8NdQgqSADWmbZyPEuOyubNkSUrPJ0+HPJYqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\peter\\RiderProjects\\ThreadPriority\\ThreadPriority\\ThreadPriority.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
